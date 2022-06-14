@@ -1,5 +1,19 @@
 /* add code here to make your image 300px square */
-
+#cats {
+    height: 300px;
+    width: 300px;
+}
 /* add code here to change the color and font family of your name/title */
-
+h1 {
+    color: green;
+    font-family: sans-serif;
+}
 /* Bonus: change the color of your list elements */
+li {
+    color: red;
+}
+ 
+/* Assigned different color to Q&A list elements.*/
+#qa {
+    color: black;
+}
